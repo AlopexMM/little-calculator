@@ -1,0 +1,15 @@
+C:\Users\mario\development\little-calculator\term.calculator\bin\Debug\net9.0\term.calculator.exe
+C:\Users\mario\development\little-calculator\term.calculator\bin\Debug\net9.0\term.calculator.deps.json
+C:\Users\mario\development\little-calculator\term.calculator\bin\Debug\net9.0\term.calculator.runtimeconfig.json
+C:\Users\mario\development\little-calculator\term.calculator\bin\Debug\net9.0\term.calculator.dll
+C:\Users\mario\development\little-calculator\term.calculator\bin\Debug\net9.0\term.calculator.pdb
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.AssemblyInfoInputs.cache
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.AssemblyInfo.cs
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.csproj.CoreCompileInputs.cache
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.sourcelink.json
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.dll
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\refint\term.calculator.dll
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.pdb
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\term.calculator.genruntimeconfig.cache
+C:\Users\mario\development\little-calculator\term.calculator\obj\Debug\net9.0\ref\term.calculator.dll
